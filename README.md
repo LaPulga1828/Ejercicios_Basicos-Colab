@@ -1,1 +1,1 @@
-# Ejercicios_Bsicos-Colab
+# Ejercicios_Basicos-Colab
